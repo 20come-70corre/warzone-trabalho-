@@ -7,7 +7,7 @@ width: 25%
     background-image:  linear-gradient(#C91306, #240301);
     color: white
     display: flex;
-    justify-content: space-around;
+    justify-content: CENTER;
     align-items: center;
     padding: 24px 0;
 }
