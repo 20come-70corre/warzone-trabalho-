@@ -1,8 +1,16 @@
 header{
-    background-color: #ff0000;
+
 }
 
 .cabecario-imageem{
 width: 25%
 
+
+}.cabecario {
+    background-color: #614242;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
