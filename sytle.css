@@ -5,7 +5,7 @@ width: 25%
 
 }.cabecario {
     background-image:  linear-gradient(#C91306, #240301);
-    color: aliceblue;
+    color: white
     display: flex;
     justify-content: space-around;
     align-items: center;
